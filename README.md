@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=dnafinder/viswanath)
+
 📘 Viswanath (Random Fibonacci Sequences)
 
 This repository contains rndfibseq.m, a MATLAB function that simulates random Fibonacci sequences and illustrates the remarkable constant discovered by Divakar Viswanath.
